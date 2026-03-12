@@ -56,7 +56,7 @@ telefonlar = {
     'vali':'galaxy s9',
     'olim':'mi 10 pro',
     'orif':'nokia 3310'
-}
+} 
  
 print(telefonlar.get("vali"))
-print(telefonlar.get("akmal")) # none 
+print(telefonlar.get("akmal")) # none
