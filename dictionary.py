@@ -59,4 +59,4 @@ telefonlar = {
 } 
  
 print(telefonlar.get("vali"))
-print(telefonlar.get("akmal")) # none
+print(telefonlar.get("akmal")) # none 
